@@ -451,7 +451,12 @@ max-width: 264px;
     display: flex;
     align-items: baseline;
 }
-
+.footer-soc{
+    
+}
+.container-logo{
+    margin-right: 120px; ;
+}
 .footer-soc-list {
 display: flex;
 justify-content: center;
