@@ -447,6 +447,10 @@ max-width: 264px;
     justify-content: center;        
     margin-bottom: 16px;
 }
+.footer-container{
+    display: flex;
+    align-items: baseline;
+}
 
 .footer-soc-list {
 display: flex;
