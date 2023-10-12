@@ -450,8 +450,6 @@ max-width: 264px;
 .footer-container{
     display: flex;
     align-items: baseline;
-}
-.footer-soc{
     margin-right: 120px; ;
 }
 .footer-soc-list {
