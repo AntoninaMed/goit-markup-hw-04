@@ -449,7 +449,9 @@ max-width: 264px;
 }
 .footer-container{
     display: flex;
-    align-items: baseline;
+    align-items: baseline;}
+
+.container-logo{
     margin-right: 120px; ;
 }
 .footer-soc-list {
